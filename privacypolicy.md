@@ -37,4 +37,4 @@ posted on this page.
 
 ## 5. Contact Us
 
-If you have any questions about this Privacy Policy, you can contact us by visiting this page on our website: [Contact Us](http://cognivirtus.com/contact/)
+If you have any questions about this Privacy Policy, you can contact us by visiting this page on our website: [Contact Us](http://cognivirtus.com/contact)
