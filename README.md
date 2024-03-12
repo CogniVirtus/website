@@ -38,7 +38,7 @@
 </table>
 
 ## [Consulting](Consulting/consulting.md)
-Our staff have decades of experience with major Corporations and Consultancies across the world working mostly with Digital, Web and Distributed systems. Since last year we've been working purely with AI and this is our focus. Although we're working on our own AI products, we are open to [Strategic Consulting](Consulting/strategic.md) and Technical Consulting for the adoption and usage of AI's in a responsible and predictable manner. [Contact Us](contact.md) if you'd like more information or have a project or initiative that you'd like help with.
+Our staff have decades of experience with major Corporations and Consultancies across the world working mostly with Digital, Web and Distributed systems. Since last year we've been working purely with AI and this is our focus. Although we're working on our own AI products, we are open to [Strategic Consulting](Consulting/strategic.md) and [Technical Consulting](./Consulting/technology.md) for the adoption and usage of AI's in a responsible and predictable manner. [Contact Us](contact.md) if you'd like more information or have a project or initiative that you'd like help with.
 
 ---
 
