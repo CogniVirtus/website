@@ -1,30 +1,26 @@
 # Privacy Policy for cognivirtus.com
 
-**Last updated:** 20th February, 2024
+**Last updated:** 15th March, 2024
 
 Welcome to [cognivirtus.com](https://cognivirtus.com). This privacy policy describes our policies and procedures on the collection,
 use, and disclosure of your information when you use the website and tells you about your privacy rights and how the law protects you.
 
 ## 1. Information We Do Not Collect
 
-At CogniVirtus, we aim to provide you with a safe and secure user experience. The website is informational and, through its direct features, 
-does not collect personal data from its visitors. Therefore, we do not require our users to provide personal information to visit and use
-the website.
+At CogniVirtus, we aim to provide you with a safe and secure user experience. The website is informational and, through its direct features, does not collect personal data from its visitors. Therefore, we do not require our users to provide personal information to visit and use the website.
 
 ## 2. Hosting Platform & Analytics
 
 Our website is hosted on [Cloudflare Pages](https://pages.cloudflare.com), a static site hosting service provided by Cloudflare and is generated using [Jekyll](https://jekyllrb.com).
 We use [Cloudflare Web Analytics](https://www.cloudflare.com/en-au/web-analytics/) which puts your privacy first:
 
-*Cloudflare Web Analytics does not use any client-side state, such as cookies or localStorage, to collect usage metrics. We also don’t “fingerprint”
-individuals via their IP address, User Agent string, or any other data for the purpose of displaying analytics.*
+*Cloudflare Web Analytics does not use any client-side state, such as cookies or localStorage, to collect usage metrics. We also don’t “fingerprint” individuals via their IP address, User Agent string, or any other data for the purpose of displaying analytics.*
 
-***Our analytics are non-invasive and respect the privacy of your visitors.***
+***Our analytics are non-invasive and respect the privacy of our visitors.***
 
 ## 3. Third-Party Links
 
-Our website may contain links to other websites that are not operated by us. If you click on a third-party link, you will be directed to
-that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our website may contain links to other websites that are not operated by us. If you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 

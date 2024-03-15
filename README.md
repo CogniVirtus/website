@@ -31,10 +31,15 @@
         <img src="./Products/Architecture%20Copilot%20-%20MVP%20-%20header.png" alt="Architecture Copilot">
       </td>
       <td>
-        Our first product, the <a href="./Products/architectureCopilot.html">Architecture Copilot</a> GPT is currently in early preview as we're still tuning it.<br>
+        Our first product, the <a href="./Products/architectureCopilot.html">Architecture Copilot</a> GPT is currently in early preview as we're still tuning it.
         If you'd like to take part, just <a href="./Products/architectureCopilotPreview.html">fill out this Preview Application form</a> and we'll get back to you.
         <h3>Vision</h3>
-        This is only the beginning! The Vision for Architecture Copilot is a to be like <a href="https://www.cognition-labs.com/blog">Devin</a> from Cognition Labs, except that the accent will be on co-creation with rather than being a replacement of people.
+        Architecture Copilot will be like <a href="https://www.cognition-labs.com/blog">Devin</a> from Cognition Labs, except that the accent will be on co-creation with rather than being a replacement of people.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        But that's not all... We eat our own dogfood and are using a Lean Startup and Design Thinking approach, so there will be more products coming soon. Everything will start as MVP and then progress (or not) based on <b>your</b> feedback and demand.
       </td>
     </tr>
   </tbody>
