@@ -13,11 +13,11 @@
     <tr>
       <td>
         <b>Cogni</b>
-        <sup><sub>Derived from the Latin word "cognitio," which means "knowledge" or "cognition." It's related to the act of knowing, understanding, and perceiving. In the context of AI, it suggests an emphasis on cognitive abilities, such as learning, understanding, and intelligent processing.</sub></sup>
+        <sup><sub>Derived from the Latin word "cognitio," which means "knowledge" or "cognition." It relates to knowing, understanding, and perceiving.</sub></sup>
       </td>
       <td>
         <b>Virtus</b>
-        <sup><sub>A Latin word that carries meanings of virtue, excellence, courage, and worth. In historical contexts, "virtus" was a quality combining valor, manliness, excellence, courage, character, and worth, admired as a virtue in classical Roman culture.</sub></sup>
+        <sup><sub>A Latin word that carries meanings of virtue, valor, excellence, courage, and worth.</sub></sup>
       </td>
     </tr>
   </tbody>
@@ -31,10 +31,10 @@
         <img src="./Products/Architecture%20Copilot%20-%20MVP%20-%20header.png" alt="Architecture Copilot">
       </td>
       <td>
-        Our first product, the <a href="./Products/architectureCopilot.html">Architecture Copilot</a> GPT is currently in early release / soft preview as we're still tuning it.<br>
-        If you'd like to take part, just [Fill out this Preview Application form](./Products/architectureCopilotPreview.md) and we'll get back to you.
-        <h2>Vision</h2>
-        This is only the beginning though - the Vision for Architecture Copilot is a to be like <a href="https://www.cognition-labs.com/blog">Devin</a> from Cognition Labs, except that the accent will be on co-creation rather than replacement of people as it will be a while before Architects can be replaced by pure AI.
+        Our first product, the <a href="./Products/architectureCopilot.html">Architecture Copilot</a> GPT is currently in early preview as we're still tuning it.<br>
+        If you'd like to take part, just <a href=./Products/architectureCopilotPreview.md>Fill out this Preview Application form</a> and we'll get back to you.
+        <h3>Vision</h3>
+        This is only the beginning - the Vision for Architecture Copilot is a to be like <a href="https://www.cognition-labs.com/blog">Devin</a> from Cognition Labs, except that the accent will be on co-creation with rather than being a replacement of people.
       </td>
     </tr>
   </tbody>
