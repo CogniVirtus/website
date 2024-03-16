@@ -13,11 +13,11 @@
     <tr>
       <td>
         <b>Cogni</b>
-        <sup><sub>Derived from the Latin word "cognitio," which means "knowledge" or "cognition." It relates to knowing, understanding, and perceiving.</sub></sup>
+        <sup><sub>From the Latin "cognitio" which means "knowledge" or "cognition" which relates to knowing, understanding and perceiving.</sub></sup>
       </td>
       <td>
         <b>Virtus</b>
-        <sup><sub>A Latin word that carries meanings of virtue, valor, excellence, courage, and worth.</sub></sup>
+        <sup><sub>A Latin word that carries meanings of virtue, valor, excellence, courage and worth.</sub></sup>
       </td>
     </tr>
   </tbody>
