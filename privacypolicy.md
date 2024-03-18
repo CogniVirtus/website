@@ -24,6 +24,10 @@ Our website may contain links to other websites that are not operated by us. If 
 
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+## Embedded Google Forms
+
+We currently use Google Forms<sup>*</sup> for [Contact](./contact.md) and [Product Waitlists](./Products/architectureCopilotPreview.md) You can view Google's Privacy Policy here: https://policies.google.com/privacy. They do comply with the DPF as set forth by the US Department of Commerce along with EU-U.S. and Swiss-U.S. Data Privacy Frameworks (DPF) and the UK Extension to the EU-U.S.
+
 ## 4. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
@@ -34,3 +38,7 @@ posted on this page.
 ## 5. Contact Us
 
 If you have any questions about this Privacy Policy, you can contact us by visiting this page on our website: [Contact Us](http://cognivirtus.com/contact)
+
+---
+
+\* Note: We'll probably move away from Google Forms in the future.
