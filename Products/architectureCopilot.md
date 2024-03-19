@@ -1,6 +1,6 @@
 # Architecture Copilot
 
-![Architecture Copilot](./Architecture%20Copilot%20-%20MVP.png)
+![Architecture Copilot](./ArchitectureCopilot-condensed.png)
 
 This is our first Product. It's a GPT that is currently in early release / soft preview. We'll be posting more information and links as we continue to build this out.
 
