@@ -1,5 +1,5 @@
 # CogniVirtus
-![CogniVirtus Banner](Images/CogniVirtus%20Banner.jpg)
+![CogniVirtus Banner](./Images/CogniVirtus%20Banner.png)
 
 <style>
   table#noborder td {
