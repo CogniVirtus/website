@@ -1,7 +1,5 @@
 # CogniVirtus
 
-{% include automenu url='/' sort="url" reverse=false all=false %}
-
 ![CogniVirtus Banner](./Images/CogniVirtus%20Banner.png)
 
 <style>
