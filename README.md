@@ -1,11 +1,5 @@
 # CogniVirtus
 
-<ul>
-{% for item in site.data.menu %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
-</ul>
-
 ![CogniVirtus Banner](./Images/CogniVirtus%20Banner.png)
 
 <style>
