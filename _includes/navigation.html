@@ -1,4 +1,25 @@
+{% comment %} Navigation Menu {% endcomment %}
+<ul class="nav">
+  {% for node in site.data.navigation %}
+    {% assign url = node.url | relative_url %}
+    <li class="nav-item{% if url == page.url %} active{% endif %}">
+      <a href="{{ url }}" class="nav-link">{{ node.title }}</a>
+      {% if node.children %}
+        <ul class="nav">
+          {% for child in node.children %}
+            {% assign child_url = child.url | relative_url %}
+            <li class="nav-item{% if child_url == page.url %} active{% endif %}">
+              <a href="{{ child_url }}" class="nav-link">{{ child.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
 {% comment %} Breadcrumbs {% endcomment %}
+<!--
 <nav aria-label="Breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Home</a></li>
@@ -22,23 +43,4 @@
     {% endfor %}
   </ol>
 </nav>
-
-{% comment %} Navigation Menu {% endcomment %}
-<ul class="nav">
-  {% for node in site.data.navigation %}
-    {% assign url = node.url | relative_url %}
-    <li class="nav-item{% if url == page.url %} active{% endif %}">
-      <a href="{{ url }}" class="nav-link">{{ node.title }}</a>
-      {% if node.children %}
-        <ul class="nav">
-          {% for child in node.children %}
-            {% assign child_url = child.url | relative_url %}
-            <li class="nav-item{% if child_url == page.url %} active{% endif %}">
-              <a href="{{ child_url }}" class="nav-link">{{ child.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+-->
