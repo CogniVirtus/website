@@ -2,9 +2,15 @@
   url: /
 
 - title: Products
-  url: /Products/
+  url: /Products/products.html
   children:
     - title: Architecture Copilot
-      url: /Products/Architecturecopilot.html
-    - title: Consulting
-      url: /Consulting/
+      url: /Products/architectureCopilot.html
+
+- title: Consulting
+  url: /Consulting/consulting.html
+  children:
+    - title: Strategic Consulting
+      url: /Consulting/strategic.html
+    - title: Technology Consulting
+      url: /Consulting/technology.html
