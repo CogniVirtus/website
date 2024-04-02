@@ -1,9 +1,26 @@
+
+body { /* Website Style */
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+/* Responsive image styles */
+img-full-width {
+  width: 100%;
+  height: auto;
+}
+
+img-half-width {
+  width: 50%;
+  height: auto;
+}
+
 /* Navigation Menu */
 .nav {
   font-family: Helvetica, Arial, sans-serif;
   list-style-type: none;
   padding-left: 0;
   display: flex; /* This will horizontally align the .nav-item elements */
+  background-color: #bfa5d9; /* Light purple */
 }
 
 .nav-item {
@@ -13,8 +30,8 @@
 }
 
 .nav-item.active {
-  background-color: #007bff;
-  color: #fff;
+  background-color: #a0bddd;
+  color: #666;
 }
 
 .nav-item.active .nav-link {
