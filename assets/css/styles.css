@@ -1,6 +1,9 @@
 /* Navigation Menu */
 .nav {
   font-family: Helvetica, Arial, sans-serif;
+  list-style-type: none;
+  padding-left: 0;
+  display: flex; /* This will horizontally align the .nav-item elements */
 }
 
 .nav-item {
