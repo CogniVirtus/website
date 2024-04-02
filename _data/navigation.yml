@@ -1,0 +1,9 @@
+- title: Home
+  url: /
+- title: Products
+  url: /Products/
+  children:
+    - title: Architecture Copilot
+      url: /Products/Architecturecopilot.html
+ - title: Consulting
+  url: /Consulting/
