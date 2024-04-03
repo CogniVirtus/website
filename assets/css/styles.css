@@ -19,8 +19,9 @@ img-half-width {
   font-family: Helvetica, Arial, sans-serif;
   list-style-type: none;
   padding-left: 0;
-  display: flex; /* This will horizontally align the .nav-item elements */
-  background-color: #bfa5d9; /* Light purple */
+  display: flex;                /* Horizontally align the .nav-item elements */
+  background-color: #d6cce0;  /* Light purple */
+  color: #000000;             /* Border Colour */
 }
 
 .nav-item {
@@ -30,16 +31,16 @@ img-half-width {
 }
 
 .nav-item.active {
-  background-color: #a0bddd;
-  color: #666;
+  background-color: #c8d5e2;
+  color: #4d4c4c;
 }
 
 .nav-item.active .nav-link {
-  color: #fff;
+  color: #000000;
 }
 
 .nav-link:hover {
-  color: #666;
+  color: #4d4c4c;
 }
 
 /* Breadcrumbs */

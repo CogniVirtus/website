@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="./Products/Architecture%20Copilot%20-%20MVP%20-%20header.png" alt="Architecture Copilot" class="img-half-width">
+        <img src="./Products/Architecture Copilot - MVP - body.png" alt="Architecture Copilot" class="img-half-width">
       </td>
       <td>
         Our first product, the <a href="./Products/architectureCopilot.html">Architecture Copilot</a> GPT is currently in early preview as we're still tuning it.
