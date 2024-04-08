@@ -54,4 +54,4 @@ Our staff have decades of experience with major Corporations and Consultancies a
 #### Privacy Policy
 We're big believers in personal and company privacy, which is especially important with AI's. Here's our [Privacy Policy](./privacypolicy.md).
 
-**TL;DR** - we collect minimal information ([CloudFlare Web Analytics](https://www.cloudflare.com/en-au/web-analytics/ across our site) which *does not profile you or your organisation*). We do use Google Forms (at the moment) which are compliant with US & Eurpean Data Protection Frameworks.
+**TL;DR** - we collect minimal information ([CloudFlare Web Analytics](https://www.cloudflare.com/en-au/web-analytics/) across our site) which *does not profile you or your organisation*. We do use Google Forms (at the moment) which are compliant with US & Eurpean Data Protection Frameworks.

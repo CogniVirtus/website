@@ -14,7 +14,7 @@ At CogniVirtus, we aim to provide you with a safe and secure user experience. Th
 Our website is hosted on [Cloudflare Pages](https://pages.cloudflare.com), a static site hosting service provided by Cloudflare and is generated using [Jekyll](https://jekyllrb.com).
 We use [Cloudflare Web Analytics](https://www.cloudflare.com/en-au/web-analytics/) which puts your privacy first:
 
-*Cloudflare Web Analytics does not use any client-side state, such as cookies or localStorage, to collect usage metrics. We also don’t “fingerprint” individuals via their IP address, User Agent string, or any other data for the purpose of displaying analytics.*
+*Cloudflare Web Analytics does not use any client-side state, such as cookies or localStorage, to collect usage metrics. We also **don’t “fingerprint” individuals** via their IP address, User Agent string, or any other data for the purpose of displaying analytics.*
 
 ***Our analytics are non-invasive and respect the privacy of our visitors.***
 
